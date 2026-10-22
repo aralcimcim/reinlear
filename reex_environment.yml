@@ -1,0 +1,13 @@
+name: reex_ws24
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - gymnasium=0.28.1
+  - jupyterlab=4.2.5
+  - matplotlib=3.9.2
+  - notebook=7.2.2
+  - numpy=1.26.4
+  - python=3.11.9
+  - scipy=1.12.0
